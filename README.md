@@ -3,7 +3,6 @@ This directory contains materials to produce blog posts using the WFH data.
 
 # data
 WFH data from https://wfhmap.com/
-NAICS code data from https://github.com/BenDoyle/NAICS/tree/master
 
 # code
 
@@ -24,6 +23,7 @@ NAICS code data from https://github.com/BenDoyle/NAICS/tree/master
     - Take a read of the original NBER paper, and maybe some of the subsequent blog	pieces which PL can link DC to,
     - Need to be a bit careful about definitions/language – say exactly what we measure
     - CEPR / Vox
+
 - How does WFH impact the upcoming US Elections
     - PL has a draft	to share with DC
     - Binscatter: WFH strongly correlates with Biden Vote Share 2020 across Counties	(should show strong positive relationship)
@@ -35,6 +35,7 @@ NAICS code data from https://github.com/BenDoyle/NAICS/tree/master
     - Voter Turnout
         - Ideas for how to think about voter turnout and WFH????
     - NYT / Atlantic
+
 - WFH and Job Filling Rate
     - Using the	microdata from the WFH project
     - **First: Is duration of online posting a good proxy for the job filling rate?**
