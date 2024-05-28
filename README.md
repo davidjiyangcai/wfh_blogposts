@@ -1,8 +1,11 @@
 # wfh_blogposts
 This directory contains materials to produce blog posts using the WFH data.
 
+# data
+WFH data from https://wfhmap.com/
+NAICS code data from https://github.com/BenDoyle/NAICS/tree/master
+
 # code
-## data_ingestion produces the CSVs we need
 
 # notes Meeting May 21st
 - 2-page report on latest WFHmap.com figures
