@@ -25,7 +25,7 @@ WFH data from https://wfhmap.com/
     - CEPR / Vox
 
 - How does WFH impact the upcoming US Elections
-    - PL has a draft	to share with DC
+    - PL has a draft to share with DC
     - Binscatter: WFH strongly correlates with Biden Vote Share 2020 across Counties	(should show strong positive relationship)
     - https://postalpro.usps.com/node/12150
     - WFH drove a huge shift in where people live (specifically, people left city centres, and people also moved States)
